@@ -30,7 +30,4 @@ It is a console-based system built in **C++** that simulates core railway operat
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/asadullah-7/Railway-Management-System.git
+
